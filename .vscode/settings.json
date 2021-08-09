@@ -1,0 +1,4 @@
+{
+    "installVSIX.force": true,
+    "dockerWS.host": "unix:///var/run/docker.sock"
+}
